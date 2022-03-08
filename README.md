@@ -5,6 +5,9 @@ Este projeto foi pensando para estudar o ReactJS, usando uma API da Marvel.
 ## Home
 ![nome_da_imagem.extensão](https://github.com/inaciofabricio/world-marvel/blob/master/public/characters.jpg)
 
+## Home
+É possivel testar a aplicação no link: (https://world-marvel.herokuapp.com/)
+
 ## Referências
 
 - API da Marvel (https://developer.marvel.com/)
